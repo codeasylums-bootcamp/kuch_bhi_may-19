@@ -2,13 +2,11 @@ we\_can\_do\_it\_may-19
 
 E-Commerce Price Comparator
 
-Collaborators : 
-                github.com/lucifer-7
+Collaborators :Ishan Bakshi - github.com/lucifer-7
 
-                github.com/1234567788
+               Purushottam Kumar - github.com/1234567788
 
-                github.com/surbhi-priya-1217
-
-                github.com/vikasgehlot333
+               Surbhi Priya - github.com/surbhi-priya-1217                
+               Vikash Gehlot - github.com/vikasgehlot333
 
 This Webpage will compare the prices of books of various genres on different E-Commerce Platforms.

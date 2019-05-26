@@ -57,6 +57,9 @@ body{
 	border-left: 1px dotted #000000;
     list-style: none;
 }
+.content ul li h3{
+	text-decoration: underline;
+}
 .item{
 	height: 100px;
 	margin: 10px;

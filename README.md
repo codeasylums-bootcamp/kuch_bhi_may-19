@@ -2,11 +2,12 @@ we\_can\_do\_it\_may-19
 
 E-Commerce Price Comparator
 
-Collaborators : github.com/lucifer-7
+Collaborators : 
+                github.com/lucifer-7
 
                 github.com/1234567788
 
-                github.com/
+                github.com/surbhi-priya-1217
 
                 github.com/vikasgehlot333
 
